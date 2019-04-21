@@ -1,0 +1,4 @@
+2019-04-21 16:24:48,117 INFO 22911 [Timer] /Users/AaronKong/Desktop/workplace/learn/back-end/egg/egg-boilerplate-simple/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 27311885ms at 2019-04-22 00:00:00.002
+2019-04-21 16:24:48,118 INFO 22911 [Timer] /Users/AaronKong/Desktop/workplace/learn/back-end/egg/egg-boilerplate-simple/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 27312882ms at 2019-04-22 00:00:01.000
+2019-04-21 16:24:48,029 INFO 22912 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/egg-boilerplate-simple/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-21 16:24:48,029 INFO 22912 [egg-schedule]: register schedule /Users/AaronKong/Desktop/workplace/learn/back-end/egg/egg-boilerplate-simple/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

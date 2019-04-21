@@ -1,0 +1,14 @@
+2019-04-21 16:24:47,992 INFO 22912 [egg:logger] init all loggers with options: {"dir":"/Users/AaronKong/Desktop/workplace/learn/back-end/egg/egg-boilerplate-simple/logs/egg-boilerplate-simple","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-boilerplate-simple-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-04-21 16:24:48,029 INFO 22912 [egg-multipart] stream mode enable
+2019-04-21 16:24:48,080 INFO 22912 [egg-static] starting static serve /public/ -> /Users/AaronKong/Desktop/workplace/learn/back-end/egg/egg-boilerplate-simple/app/public
+2019-04-21 16:24:48,082 INFO 22912 [egg-security] use csrf middleware
+2019-04-21 16:24:48,083 INFO 22912 [egg-security] use methodnoallow middleware
+2019-04-21 16:24:48,083 INFO 22912 [egg-security] use noopen middleware
+2019-04-21 16:24:48,084 INFO 22912 [egg-security] use nosniff middleware
+2019-04-21 16:24:48,084 INFO 22912 [egg-security] use xssProtection middleware
+2019-04-21 16:24:48,084 INFO 22912 [egg-security] use xframe middleware
+2019-04-21 16:24:48,085 INFO 22912 [egg-security] use dta middleware
+2019-04-21 16:24:48,085 INFO 22912 [egg-security] compose 7 middlewares into one security middleware
+2019-04-21 16:24:48,093 INFO 22912 [egg:core] dump config after load, 5ms
+2019-04-21 16:24:48,106 INFO 22912 [egg-watcher:application] watcher start success
+2019-04-21 16:24:48,112 INFO 22912 [egg:core] dump config after ready, 4ms
